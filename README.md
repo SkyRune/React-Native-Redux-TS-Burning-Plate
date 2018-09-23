@@ -2,7 +2,7 @@
 
 This is a simple boiler plate for react-native.
 
-![Alt text](screen.png?raw=true "Example")
+![Alt text](iphone.png?raw=true "Example")
 
 
 ## Work with EXPO
