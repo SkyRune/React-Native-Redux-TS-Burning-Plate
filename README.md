@@ -15,3 +15,5 @@ Comes configured with :
 
 
 This is a simple
+
+![Alt text](screen.png?raw=true "Example")
