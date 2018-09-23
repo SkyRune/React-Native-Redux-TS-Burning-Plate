@@ -1,8 +1,22 @@
 # React Native Burning Plate
 
-Work with EXPO
+This is a simple boiler plate for react-native.
 
-Comes configured with : 
+![Alt text](screen.png?raw=true "Example")
+
+
+## Work with EXPO
+
+
+Installation : 
+
+``` npm install```
+
+Then you can start expo XDE and open the project.
+
+
+## Comes configured with : 
+
 + I18n
 + Native Base ( library for UI components )
 + React Native
@@ -14,12 +28,7 @@ Comes configured with :
 + TypeScript
 
 
-This is a simple boiler plate for react-native.
 
-![Alt text](screen.png?raw=true "Example")
 
-Installation : 
 
-``` npm install```
 
-Then you can start expo XDE and open the project.
