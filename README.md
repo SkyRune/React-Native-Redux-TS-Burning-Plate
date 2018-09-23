@@ -17,7 +17,7 @@ Then you can start expo XDE and open the project.
 
 ## Comes configured with : 
 
-+ I18n
++ I18n (Internationalization)
 + Native Base ( library for UI components )
 + React Native
 + Redux
@@ -27,7 +27,9 @@ Then you can start expo XDE and open the project.
 + React Router V4
 + TypeScript
 
+## SplashScreen
 
+Configure it in app.json
 
 
 
