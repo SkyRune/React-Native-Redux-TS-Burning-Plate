@@ -14,6 +14,12 @@ Comes configured with :
 + TypeScript
 
 
-This is a simple
+This is a simple boiler plate for react-native.
 
 ![Alt text](screen.png?raw=true "Example")
+
+Installation : 
+
+``` npm install```
+
+Then you can start expo XDE and open the project.
