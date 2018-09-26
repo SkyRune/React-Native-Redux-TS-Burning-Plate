@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { View } from "react-native";
 import { connect } from "react-redux";
 import { Image } from 'react-native'
-import { IStore } from '../../model';
+
 export interface SpinnerOwnProps { }
 
 export interface SpinnerDispatchProps {
@@ -31,7 +31,7 @@ class Spinner extends Component<TSpinnerProps> {
   }
 }
 
-const mapStateToProps = (state: IStore): SpinnerStateProps => {
+const mapStateToProps = (state: any): SpinnerStateProps => {
   return { display: state.spinner.display };
 };
 
